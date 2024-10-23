@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projetappliactionBureau\\biblio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48DC94F5-0C24-4781-87B9-5C0242012085}|GESTION DE BIBLIOTHEQUE\\GESTION DE BIBLIOTHEQUE.csproj|d:\\projetappliactionbureau\\biblio\\gestion de bibliotheque\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{48DC94F5-0C24-4781-87B9-5C0242012085}|GESTION DE BIBLIOTHEQUE\\GESTION DE BIBLIOTHEQUE.csproj|solutionrelative:gestion de bibliotheque\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DC94F5-0C24-4781-87B9-5C0242012085}|GESTION DE BIBLIOTHEQUE\\GESTION DE BIBLIOTHEQUE.csproj|d:\\projetappliactionbureau\\biblio\\gestion de bibliotheque\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48DC94F5-0C24-4781-87B9-5C0242012085}|GESTION DE BIBLIOTHEQUE\\GESTION DE BIBLIOTHEQUE.csproj|solutionrelative:gestion de bibliotheque\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DC94F5-0C24-4781-87B9-5C0242012085}|GESTION DE BIBLIOTHEQUE\\GESTION DE BIBLIOTHEQUE.csproj|d:\\projetappliactionbureau\\biblio\\gestion de bibliotheque\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{48DC94F5-0C24-4781-87B9-5C0242012085}|GESTION DE BIBLIOTHEQUE\\GESTION DE BIBLIOTHEQUE.csproj|solutionrelative:gestion de bibliotheque\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "D:\\projetappliactionBureau\\biblio\\GESTION DE BIBLIOTHEQUE\\HomePage.xaml",
+              "RelativeDocumentMoniker": "GESTION DE BIBLIOTHEQUE\\HomePage.xaml",
+              "ToolTip": "D:\\projetappliactionBureau\\biblio\\GESTION DE BIBLIOTHEQUE\\HomePage.xaml*",
+              "RelativeToolTip": "GESTION DE BIBLIOTHEQUE\\HomePage.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-14T23:21:58.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\projetappliactionBureau\\biblio\\GESTION DE BIBLIOTHEQUE\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "GESTION DE BIBLIOTHEQUE\\MainWindow.xaml",
+              "ToolTip": "D:\\projetappliactionBureau\\biblio\\GESTION DE BIBLIOTHEQUE\\MainWindow.xaml",
+              "RelativeToolTip": "GESTION DE BIBLIOTHEQUE\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-14T22:07:13.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\projetappliactionBureau\\biblio\\GESTION DE BIBLIOTHEQUE\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "GESTION DE BIBLIOTHEQUE\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\projetappliactionBureau\\biblio\\GESTION DE BIBLIOTHEQUE\\MainWindow.xaml.cs",
+              "RelativeToolTip": "GESTION DE BIBLIOTHEQUE\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T22:07:08.473Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

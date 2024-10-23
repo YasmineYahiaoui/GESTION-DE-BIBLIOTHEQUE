@@ -1,0 +1,29 @@
+C:\Users\amira\source\repos\GESTION DE BIBLIOTHEQUE\GESTION DE BIBLIOTHEQUE\bin\Debug\net8.0-windows\GESTION DE BIBLIOTHEQUE.exe
+C:\Users\amira\source\repos\GESTION DE BIBLIOTHEQUE\GESTION DE BIBLIOTHEQUE\bin\Debug\net8.0-windows\GESTION DE BIBLIOTHEQUE.deps.json
+C:\Users\amira\source\repos\GESTION DE BIBLIOTHEQUE\GESTION DE BIBLIOTHEQUE\bin\Debug\net8.0-windows\GESTION DE BIBLIOTHEQUE.runtimeconfig.json
+C:\Users\amira\source\repos\GESTION DE BIBLIOTHEQUE\GESTION DE BIBLIOTHEQUE\bin\Debug\net8.0-windows\GESTION DE BIBLIOTHEQUE.dll
+C:\Users\amira\source\repos\GESTION DE BIBLIOTHEQUE\GESTION DE BIBLIOTHEQUE\bin\Debug\net8.0-windows\GESTION DE BIBLIOTHEQUE.pdb
+C:\Users\amira\source\repos\GESTION DE BIBLIOTHEQUE\GESTION DE BIBLIOTHEQUE\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\amira\source\repos\GESTION DE BIBLIOTHEQUE\GESTION DE BIBLIOTHEQUE\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\amira\source\repos\GESTION DE BIBLIOTHEQUE\GESTION DE BIBLIOTHEQUE\obj\Debug\net8.0-windows\GESTION DE BIBLIOTHEQUE_MarkupCompile.cache
+C:\Users\amira\source\repos\GESTION DE BIBLIOTHEQUE\GESTION DE BIBLIOTHEQUE\obj\Debug\net8.0-windows\GESTION DE BIBLIOTHEQUE_MarkupCompile.lref
+C:\Users\amira\source\repos\GESTION DE BIBLIOTHEQUE\GESTION DE BIBLIOTHEQUE\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\amira\source\repos\GESTION DE BIBLIOTHEQUE\GESTION DE BIBLIOTHEQUE\obj\Debug\net8.0-windows\GESTION DE BIBLIOTHEQUE.g.resources
+C:\Users\amira\source\repos\GESTION DE BIBLIOTHEQUE\GESTION DE BIBLIOTHEQUE\obj\Debug\net8.0-windows\GESTION DE BIBLIOTHEQUE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amira\source\repos\GESTION DE BIBLIOTHEQUE\GESTION DE BIBLIOTHEQUE\obj\Debug\net8.0-windows\GESTION DE BIBLIOTHEQUE.AssemblyInfoInputs.cache
+C:\Users\amira\source\repos\GESTION DE BIBLIOTHEQUE\GESTION DE BIBLIOTHEQUE\obj\Debug\net8.0-windows\GESTION DE BIBLIOTHEQUE.AssemblyInfo.cs
+C:\Users\amira\source\repos\GESTION DE BIBLIOTHEQUE\GESTION DE BIBLIOTHEQUE\obj\Debug\net8.0-windows\GESTION DE BIBLIOTHEQUE.csproj.CoreCompileInputs.cache
+C:\Users\amira\source\repos\GESTION DE BIBLIOTHEQUE\GESTION DE BIBLIOTHEQUE\obj\Debug\net8.0-windows\GESTION DE BIBLIOTHEQUE.dll
+C:\Users\amira\source\repos\GESTION DE BIBLIOTHEQUE\GESTION DE BIBLIOTHEQUE\obj\Debug\net8.0-windows\refint\GESTION DE BIBLIOTHEQUE.dll
+C:\Users\amira\source\repos\GESTION DE BIBLIOTHEQUE\GESTION DE BIBLIOTHEQUE\obj\Debug\net8.0-windows\GESTION DE BIBLIOTHEQUE.pdb
+C:\Users\amira\source\repos\GESTION DE BIBLIOTHEQUE\GESTION DE BIBLIOTHEQUE\obj\Debug\net8.0-windows\GESTION DE BIBLIOTHEQUE.genruntimeconfig.cache
+C:\Users\amira\source\repos\GESTION DE BIBLIOTHEQUE\GESTION DE BIBLIOTHEQUE\obj\Debug\net8.0-windows\ref\GESTION DE BIBLIOTHEQUE.dll
+C:\Users\amira\source\repos\GESTION DE BIBLIOTHEQUE\GESTION DE BIBLIOTHEQUE\obj\Debug\net8.0-windows\HomePage.g.cs
+D:\projetappliactionBureau\biblio\GESTION DE BIBLIOTHEQUE\obj\Debug\net8.0-windows\HomePage.g.cs
+D:\projetappliactionBureau\biblio\GESTION DE BIBLIOTHEQUE\obj\Debug\net8.0-windows\App.g.cs
+D:\projetappliactionBureau\biblio\GESTION DE BIBLIOTHEQUE\obj\Debug\net8.0-windows\GESTION DE BIBLIOTHEQUE_MarkupCompile.cache
+D:\projetappliactionBureau\biblio\GESTION DE BIBLIOTHEQUE\obj\Debug\net8.0-windows\GESTION DE BIBLIOTHEQUE_MarkupCompile.lref
+D:\projetappliactionBureau\biblio\GESTION DE BIBLIOTHEQUE\obj\Debug\net8.0-windows\GESTION DE BIBLIOTHEQUE.dll
+D:\projetappliactionBureau\biblio\GESTION DE BIBLIOTHEQUE\obj\Debug\net8.0-windows\refint\GESTION DE BIBLIOTHEQUE.dll
+D:\projetappliactionBureau\biblio\GESTION DE BIBLIOTHEQUE\obj\Debug\net8.0-windows\GESTION DE BIBLIOTHEQUE.pdb
+D:\projetappliactionBureau\biblio\GESTION DE BIBLIOTHEQUE\obj\Debug\net8.0-windows\MainWindow.g.cs
